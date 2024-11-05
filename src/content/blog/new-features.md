@@ -6,6 +6,22 @@ mermaid: true
 mathjax: true
 ---
 
+### Support Github Card
+
+::github{repo="cirry/astro-yi"}
+
+### Support collapse
+
+```bash
+:::collapse
+Hello World!
+:::
+```
+
+
+:::collapse
+Hello World!
+:::
 
 ### Support admonitions
 
@@ -36,7 +52,7 @@ hello world
 note
 
 ```js
-console.log(hello world)
+console.log('hello world')
 ```
 
 :::
@@ -114,18 +130,35 @@ classDiagram
     }
 ```
 
-### Support Mathjax
+### Support mathjax
 
 + set markdown frontmatter `mathjax: true`.
+
+#### Block Mode
 
 ```yaml title="Mathjax.md"
 ---
 mathjax: true
 ---
-$$ \displaystyle\sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t $$
+hello!
+$$ \sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t $$
+hello!
 ```
 
-$$ \displaystyle\sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t $$
+hello! 
+$$ \sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t $$
+hello!
+
+#### Inline Mode
+
+```yaml title="Mathjax.md"
+---
+mathjax: true
+---
+hello! $ \sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t $ hello!
+```
+
+hello! $ \sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t $ hello!
 
 ### Integration with Expressive Code
 

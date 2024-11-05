@@ -21,7 +21,7 @@ export const site = {
   description: 'A blog all about gaming and other hobbies ',
   author: "Ghastlymirror", // required
   avatar: '/avatar.png', // required
-  motto: 'A blog all about gaming and other hobbies.',
+  motto: 'Actions speak louder than words.',
   url: 'https://astro-yi-nu.vercel.app',
   recentBlogSize: 5,
   archivePageSize: 25,
@@ -38,8 +38,8 @@ export const site = {
  */
 export const config = {
   busuanzi: false,
-  lang: 'en', // en | zh-cn
-  codeFoldingStartLines: 16, // Need to re-run the project to take effect
+  lang: 'en', // en | zh-cn | zh-Hant | cs
+  codeFoldingStartLines: 16 , // Need to re-run the project to take effect
   ga: false // If you want to integrate with Google Analytics, just enter your GA-ID here.
 }
 
@@ -136,14 +136,14 @@ export const infoLinks = [
     outlink: 'https://steamcommunity.com/id/ghastlymirror/',
   },
   {
-    icon: 'ri-youtube-fill',
-    name: 'youtube',
-    outlink: 'https://www.youtube.com/channel/UCYkyDHJDh-KclwOFBH0M_Sg',
+    icon: 'ri-github-fill',
+    name: 'github',
+    outlink: 'https://github.com/cirry',
   },
   {
     icon: 'ri-rss-fill',
     name: 'rss',
-    outlink: 'https://astro-yi-nu.vercel.app/rss.xml',
+    outlink: 'xxxxxxx',
   }
 ]
 
@@ -396,31 +396,31 @@ export const friendshipLinks =
 export const comment = {
   enable: true,
   type: 'giscus', // waline | giscus,
-  //waline config
-  serverUrl: "https://xxxxx.xxxxx.app",
-  // waline config
-  lang: 'en',
-  pageSize: 20,
-  wordLimit: '',
-  count: 5,
-  pageview: true,
-  reaction: true,
-  requiredMeta: ["nick", "mail"],
-  whiteList: ['/message/'],
+  walineConfig:{
+    serverUrl: "https://xxxxx.xxxxx.app",
+    lang: 'en',
+    pageSize: 20,
+    wordLimit: '',
+    count: 5,
+    pageview: true,
+    reaction: true,
+    requiredMeta: ["nick", "mail"],
+    whiteList: ['/message/', '/friends/'],
+  },
 
   // giscus config
   giscusConfig: {
-    'data-repo': "cirry/astro-yi",
-    'data-repo-id': "R_kgDOJNr3Jw",
+    'data-repo': "ghastlymirror/ghostgamer",
+    'data-repo-id': "R_kgDONK883A",
     'data-category': "Announcements",
-    'data-category-id': "DIC_kwDOJNr3J84CftB-",
+    'data-category-id': "DIC_kwDONK883M4CkAUO",
     'data-mapping': "pathname",
     'data-strict': "0",
     'data-reactions-enabled': "1",
     'data-emit-metadata': "0",
     'data-input-position': "bottom",
     'data-theme': "light",
-    'data-lang': "zh-CN",
+    'data-lang': "en",
     'crossorigin': "anonymous",
   }
 

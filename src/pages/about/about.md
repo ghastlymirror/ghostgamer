@@ -26,7 +26,7 @@ When not exploring virtual worlds, I´m go on nature hikes and bird watching.
 ## About This Site
 
 This place started life as a wordpress blog in 2022, and has change hosts (and a brand new layout) ever since.
- I simply wanted to get into traditional long form blogging, as an alterantive to just using social media all the time to express myself. 
+ I simply wanted to get into traditional long form blogging, as an alternative to just using social media all the time to express myself. 
 What kinda of post you can expect to see: gaming reviews (old and retro), playthroughts, photography and any other of my personal projects.
 
 ### Sister Site:
