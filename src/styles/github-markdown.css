@@ -1038,3 +1038,9 @@
  .markdown-body ::-webkit-calendar-picker-indicator {
    filter: invert(50%);
  }
+
+ img[src$='#center'] {
+  display: block;
+  margin: auto;
+  width:70p%;
+}
