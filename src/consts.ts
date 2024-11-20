@@ -22,7 +22,7 @@ export const site = {
   author: "ghastlymirror", // required
   avatar: '/avatar.png', // required
   motto: 'A blog all about gaming, photography and other hobbies',
-  url: 'https://www.ghastlymirror.xyz/',
+  url: 'https://www.ghastlymirror.xyz',
   recentBlogSize: 5,
   archivePageSize: 25,
   postPageSize: 10,
