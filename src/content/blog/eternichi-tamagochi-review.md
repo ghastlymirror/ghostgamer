@@ -4,10 +4,8 @@ description: Remember The Tamagotchi? Now you can raise one in this little fanga
 date: 2022-03-02
 category:  ["gaming"]
 tags: ["simulation", "fangame", "indie", "review"]
-image: 
-   url: https://images2.imgbox.com/8c/46/NuUP6eQo_o.jpg
-   alt: Eternichi Game Cover
-
+image: https://images2.imgbox.com/8c/46/NuUP6eQo_o.jpg
+   
 donate: true
 comment: true
 
