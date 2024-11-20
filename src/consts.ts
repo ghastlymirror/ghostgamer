@@ -152,7 +152,7 @@ export const infoLinks = [
   {
     icon: 'ri-rss-fill',
     name: 'rss',
-    outlink: 'xxxxxxx',
+    outlink: 'https://ghastlymirror.netlify.app/sitemap-0.xml',
   }
 ]
 
