@@ -7,7 +7,9 @@ tags: ["simulation", "fangame", "indie", "review"]
 image: 
    url: /images/blog/tamagotchi-pc.jpg
    alt: Eternichi Game Cover
-
+cover: /images/blog/tamagotchi-pc.jpg
+donate: true
+comment: true
 
 ---
 ![Eternichi Game Cover](/images/blog/tamagotchi-pc.jpg#center)

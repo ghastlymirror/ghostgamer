@@ -16,13 +16,13 @@
  * beian {string} Chinese policy
  */
 export const site = {
-  title: 'The Ghastly Gamer 👻', // required
+  title: 'The Ghastly Mirror 👻', // required
   favicon: '/favicon.svg', // required
-  description: 'A blog all about gaming and other hobbies ',
-  author: "Ghastlymirror", // required
+  description: 'A blog all about gaming, photography and other hobbies ',
+  author: "ghastlymirror", // required
   avatar: '/avatar.png', // required
-  motto: 'Actions speak louder than words.',
-  url: 'https://astro-yi-nu.vercel.app',
+  motto: 'A blog all about gaming, photography and other hobbies',
+  url: 'https://ghastlymirror.netlify.app',
   recentBlogSize: 5,
   archivePageSize: 25,
   postPageSize: 10,
@@ -125,21 +125,30 @@ export const categories = [
  */
 export const infoLinks = [
   {
+    icon: 'ri-youtube-fill',
+    name: 'youtube',
+    outlink: 'https://www.youtube.com/channel/UCYkyDHJDh-KclwOFBH0M_Sg',
+  },
+
+  {
     icon: 'ri-mastodon-fill',
     name: 'mastodon',
     outlink: 'https://blorbo.social/@creaturefeature',
   },
+
+  {
+    icon: 'ri-bluesky-fill',
+    name: 'bluesky',
+    outlink: 'https://bsky.app/profile/creaturefeature.blorbo.social.ap.brid.gy',
+  },
+
   
   {
     icon: 'ri-steam-fill',
     name: 'steam',
     outlink: 'https://steamcommunity.com/id/ghastlymirror/',
   },
-  {
-    icon: 'ri-github-fill',
-    name: 'github',
-    outlink: 'https://github.com/cirry',
-  },
+
   {
     icon: 'ri-rss-fill',
     name: 'rss',

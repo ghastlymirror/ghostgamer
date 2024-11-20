@@ -1,7 +1,5 @@
 User-agent: *
 Allow: /
-<<<<<<< HEAD
-Sitemap: https://astro-yi-nu.vercel.app/sitemap-0.xml
 
 User-agent: CCBot
 Disallow: /
@@ -44,5 +42,9 @@ Disallow: /
 
 User-agent: sentibot
 Disallow: /
-=======
->>>>>>> 136742971aeb1e7aae584e1143e4cdb6fd40da77
+
+Sitemap: https://ghastlymirror.netlify.app/sitemap-0.xml
+
+
+
+
