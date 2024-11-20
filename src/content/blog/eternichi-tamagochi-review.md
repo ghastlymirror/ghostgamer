@@ -5,9 +5,9 @@ date: 2022-03-02
 category:  ["gaming"]
 tags: ["simulation", "fangame", "indie", "review"]
 image: 
-   url: /images/blog/tamagotchi-pc.jpg
+   url: https://images2.imgbox.com/8c/46/NuUP6eQo_o.jpg
    alt: Eternichi Game Cover
-cover: /images/blog/tamagotchi-pc.jpg
+
 donate: true
 comment: true
 
