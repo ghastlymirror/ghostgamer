@@ -43,7 +43,7 @@ Disallow: /
 User-agent: sentibot
 Disallow: /
 
-Sitemap: https://ghastlymirror.netlify.app/sitemap-0.xml
+Sitemap: https://www.ghastlymirror.xyz/sitemap-0.xml
 
 
 
