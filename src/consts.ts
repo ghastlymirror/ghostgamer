@@ -22,7 +22,7 @@ export const site = {
   author: "ghastlymirror", // required
   avatar: '/avatar.png', // required
   motto: 'A blog all about gaming, photography and other hobbies',
-  url: 'https://ghastlymirror.netlify.app',
+  url: 'https://www.ghastlymirror.xyz/',
   recentBlogSize: 5,
   archivePageSize: 25,
   postPageSize: 10,
@@ -152,7 +152,7 @@ export const infoLinks = [
   {
     icon: 'ri-rss-fill',
     name: 'rss',
-    outlink: 'https://ghastlymirror.netlify.app/sitemap-0.xml',
+    outlink: 'https://www.ghastlymirror.xyz/sitemap-0.xml',
   }
 ]
 
