@@ -16,7 +16,7 @@ For those who don´t know, it´s a static site generator, it  allows me to creat
 
 I Decided to move away from wordpress.com for couple of reasons. A big one is the whole selling your stuff to AI if the blog hosting service so chooses, it really felt like my site did not belong to me.
 
-Another reason, is the behaviour of Matt the Ceo of Automattic who as you know, has lately been involved in some controversies, from the **[WP-Engine dispute](https://techcrunch.com/2024/10/02/wp-engine-sues-automattic-and-wordpress-co-founder-matt-mullenweg/)**, to **[harrassing](https://www.reddit.com/r/CuratedTumblr/comments/1axb321/matt_mullenweg_follows_predstrogen_to_twitter/) a tumblr user and **[terminating her blog?](https://www.reddit.com/r/CuratedTumblr/comments/1avbp78/tumblr_bans_trans_woman_over_looney_toonslevel/)**
+Another reason, is the behaviour of Matt the Ceo of Automattic who as you know, has lately been involved in some controversies, from the **[WP-Engine dispute](https://techcrunch.com/2024/10/02/wp-engine-sues-automattic-and-wordpress-co-founder-matt-mullenweg/)**, to **[harrassing](https://www.reddit.com/r/CuratedTumblr/comments/1axb321/matt_mullenweg_follows_predstrogen_to_twitter/)** a tumblr user and **[terminating her blog?](https://www.reddit.com/r/CuratedTumblr/comments/1avbp78/tumblr_bans_trans_woman_over_looney_toonslevel/)**
 
 Saw the writting in the wall and decided to leg it. 
 
