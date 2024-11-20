@@ -152,7 +152,7 @@ export const infoLinks = [
   {
     icon: 'ri-rss-fill',
     name: 'rss',
-    outlink: 'https://www.ghastlymirror.xyz/sitemap-0.xml',
+    outlink: 'https://www.ghastlymirror.xyz/rss.xml',
   }
 ]
 
