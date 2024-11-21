@@ -4,7 +4,7 @@ description: Remember The Tamagotchi? Now you can raise one in this little fanga
 date: 2022-03-02
 category:  ["gaming"]
 tags: ["simulation", "fangame", "indie", "review"]
-image: /images/blog/tamagotchi-pc.jpg
+
     
 
 donate: true
