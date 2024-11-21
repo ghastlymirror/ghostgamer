@@ -13,4 +13,3 @@ export function useTranslations(lang: keyof typeof ui) {
 }
 
 export const t = useTranslations(config.lang)
-

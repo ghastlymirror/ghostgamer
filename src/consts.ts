@@ -116,6 +116,12 @@ export const categories = [
         iconClass: "ri-chat-1-line",
         href: "/message",
       },
+      {
+        name: "Feed",
+        iconClass: "ri-lightbulb-flash-line",
+        href: "/feed/1",
+      },
+
     ]
   }
 ]

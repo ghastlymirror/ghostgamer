@@ -4,21 +4,21 @@ comment: false
 ---
 
 ## Now 
-**Last Update:** 5th November 2024
+**Last Update:** 21th November 2024
 
 
 ### 🎮 Playing
 
-Animal Crossing, A Witch´s Tale
+Animal Crossing, A Witch´s Tale, Webfishing
 
 ### 📺 Watching
- King of the Hill, Delico´s Nursery, No Longer Allowed in Another World, Gremlins
+ King of the Hill, Delico´s Nursery, No Longer Allowed in Another World, Gremlins, Arcane, Lower Decks
 
 ### 📖 Reading
-Lord of the Rings
+Lord of the Rings, The Witcher: The Last Wish
 
 ### 🎙️ Podcasts 
-Re Dracula, The Adventure Zone, Murray Mysteries
+ The Adventure Zone, Murray Mysteries
 
 ### 💡 Creating
 - Creating a page about Vasslord for my neocities website

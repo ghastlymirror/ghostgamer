@@ -278,3 +278,9 @@ menu {
 .MathJax svg {
   display: inline;
 }
+
+img[src$='#center'] {
+  display: block;
+  margin: auto;
+  width:70p%;
+}
